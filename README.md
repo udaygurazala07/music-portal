@@ -1,99 +1,27 @@
-# 🎵 Music Adaptive System
+# Music Portal
 
-The **Music Adaptive System** is a simple web-based project that demonstrates a smart music platform concept.
-The system is designed to adapt music recommendations based on user mood, behavior, and activity.
+Music Portal is a simple web project built using HTML and CSS.
+This project represents a basic music website interface where users can explore music-related features.
 
-This project is built using **HTML and CSS** and provides a clean, responsive interface for presenting the concept of an adaptive music system.
+## Features
 
----
+* Simple and clean website design
+* Responsive layout
+* Home, About, Features, and Contact sections
 
-## 🚀 Features
+## Technologies Used
 
-* Responsive website design
-* Simple and clean user interface
-* Information about adaptive music technology
-* Feature showcase section
-* Contact form layout
-* Mobile-friendly layout
+* HTML
+* CSS
 
----
+## How to Run the Project
 
-## 🛠 Technologies Used
-
-* **HTML5**
-* **CSS3**
-* Responsive Web Design
-
----
-
-## 📁 Project Structure
-
-```
-Music-Adaptive-System
-│
-├── index.html
-├── style.css
-└── README.md
-```
-
----
-
-## 💻 How to Run the Project
-
-1. Download or clone the repository
-
-```
-git clone https://github.com/your-username/music-adaptive-system.git
-```
-
+1. Download or clone the repository.
 2. Open the project folder.
+3. Open **index.html** in your web browser.
 
-3. Run the project by opening:
+## Author
 
-```
-index.html
-```
+Uday Gurazala
 
-in any web browser.
-
----
-
-## 🌐 Deployment
-
-You can host this project using:
-
-* GitHub Pages
-* InfinityFree / 42web
-* Netlify
-* Vercel
-
----
-
-## 📸 Project Preview
-
-This website contains the following sections:
-
-* Home
-* About
-* Features
-* Contact
-
----
-
-## 📚 Future Improvements
-
-* Add a **music player**
-* Implement **mood detection**
-* Add **AI-based music recommendation**
-* Integrate **JavaScript functionality**
-* Connect with a **database**
-
----
-
-## 👨‍💻 Author
-
-*Gurazala uday
-
-Project: *Music Adaptive System*
-
-
+This project is created for learning and educational purposes.
