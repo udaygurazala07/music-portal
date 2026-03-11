@@ -92,12 +92,8 @@ This website contains the following sections:
 
 ## 👨‍💻 Author
 
-**Your Name**
+*Gurazala uday
 
 Project: *Music Adaptive System*
 
----
 
-## 📄 License
-
-This project is for **educational purposes**.
